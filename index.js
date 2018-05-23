@@ -11,3 +11,6 @@ function deepestChild() {
   return lis[3]
 }
 
+function increasRankBy(n){
+  
+}
