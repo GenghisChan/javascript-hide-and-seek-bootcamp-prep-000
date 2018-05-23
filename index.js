@@ -12,5 +12,5 @@ function deepestChild() {
 }
 
 function increasRankBy(n){
-  
+  document.getElementById()
 }
