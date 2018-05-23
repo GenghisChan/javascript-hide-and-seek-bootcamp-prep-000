@@ -5,3 +5,7 @@ function getFirstSelector(x) {
 function nestedTarget(){
   return document.getElementById('nested').querySelector('div.target')
 }
+
+function deepestChild() {
+  return docuement
+}
